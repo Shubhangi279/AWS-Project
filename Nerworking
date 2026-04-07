@@ -1,1 +1,146 @@
+# 🌐 Computer Networking Repository
+
+Welcome to my **Computer Networking Repository**!
+This repository documents my complete journey of learning networking concepts, performing practical labs, and building real-world projects.
+
+---
+
+## 📘 About
+
+This repository is designed to provide a strong foundation in **Computer Networking**, covering both:
+
+* 📖 **Theoretical Concepts**
+* 🧪 **Practical Implementations**
+
+### 📌 It includes:
+
+* Detailed notes
+* Hands-on labs
+* Real-world projects
+* Network traffic analysis
+
+---
+
+## 🧠 Topics Covered
+
+### 🔹 1. OSI Model
+
+* 7 Layers: Physical → Application
+* Functions of each layer
+* Real-world examples
+
+### 🔹 2. TCP/IP Model
+
+* 4-layer architecture
+* Comparison with OSI model
+* Real-world usage
+
+### 🔹 3. IP Addressing
+
+* IPv4 and IPv6
+* Public vs Private IP
+* Static vs Dynamic IP
+
+### 🔹 4. Subnetting
+
+* Subnet masks
+* CIDR notation
+* Subnet calculations and examples
+
+### 🔹 5. Routing & Switching
+
+* Routers vs Switches
+* Routing protocols: RIP, OSPF, BGP
+* MAC Address and ARP
+
+### 🔹 6. Network Protocols
+
+* HTTP / HTTPS
+* DNS
+* FTP
+* DHCP
+
+---
+
+## 🧪 Labs
+
+### 📡 Cisco Packet Tracer
+
+* Network topology design
+* Router and switch configuration
+* VLAN setup and testing
+
+### 🔍 Wireshark Analysis
+
+* Packet capture and inspection
+* DNS request analysis
+* HTTP request/response breakdown
+
+---
+
+## 🛠 Projects
+
+### 💬 Chat Application
+
+* Built using socket programming
+* Client-server architecture
+* Real-time communication
+
+### 📁 File Transfer System
+
+* File sharing over a network
+* TCP-based communication
+
+### 🔎 Port Scanner
+
+* Scans open ports on a system
+* Demonstrates networking + basic security concepts
+
+---
+
+## 🧰 Tools & Technologies
+
+* Cisco Packet Tracer
+* Wireshark
+* Python (Socket Programming)
+
+---
+
+## 📂 Folder Structure
+
+notes/       → Theory and explanations
+labs/        → Practical experiments
+projects/    → Networking applications
+diagrams/    → Visual representations
+resources/   → Helpful references
+
+---
+
+## 🎯 Learning Goals
+
+* Build strong networking fundamentals
+* Understand real-world networking systems
+* Develop practical problem-solving skills
+* Gain hands-on experience with tools
+
+---
+
+## 🚀 Future Enhancements
+
+* Add network security concepts
+* Build advanced networking projects
+* Explore cloud networking (AWS, Azure, GCP)
+* Include real-world case studies
+
+---
+
+## 📌 Author
+
+**Your Name**
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, feel free to ⭐ star it and follow for more updates!
 
