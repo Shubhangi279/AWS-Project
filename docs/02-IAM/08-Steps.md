@@ -23,9 +23,10 @@ Root account should only be used for initial setup.
 
 ### Screenshot
 
-```md
-![AWS Login Page](images/step1-login.png)
-```
+
+<img width="1888" height="907" alt="image" src="https://github.com/user-attachments/assets/fdabd3d4-d1eb-4bc1-9b0c-db5b9971bc18" />
+
+
 
 ---
 
@@ -42,9 +43,7 @@ IAM
 
 ### Screenshot
 
-```md
-![IAM Dashboard](images/step2-iam-dashboard.png)
-```
+<img width="1910" height="910" alt="image" src="https://github.com/user-attachments/assets/2ec47bc0-44f0-4ded-a505-cd1cea5f1bac" />
 
 ---
 
@@ -61,9 +60,7 @@ Users
 
 ### Screenshot
 
-```md
-![Users Section](images/step3-users.png)
-```
+<img width="1911" height="906" alt="image" src="https://github.com/user-attachments/assets/eee5248d-7030-40a9-9de3-6730a1fdceae" />
 
 ---
 
@@ -90,9 +87,7 @@ Click **Next**
 
 ### Screenshot
 
-```md
-![Create User](images/step4-create-user.png)
-```
+<img width="1905" height="963" alt="image" src="https://github.com/user-attachments/assets/387819b3-a04f-4036-a957-d7ab923b2f00" />
 
 ---
 
@@ -111,9 +106,7 @@ Developers
 
 ### Screenshot
 
-```md
-![Create Group](images/step5-create-group.png)
-```
+<img width="1910" height="907" alt="image" src="https://github.com/user-attachments/assets/69ba057b-ae39-4a13-81e7-de880f93b396" />
 
 ---
 
@@ -131,9 +124,7 @@ Examples:
 
 ### Screenshot
 
-```md
-![Attach Policy](images/step6-attach-policy.png)
-```
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/c3166bad-f890-42a0-8506-4dc6e80d3ebc" />
 
 ---
 
@@ -146,9 +137,7 @@ User automatically inherits permissions.
 
 ### Screenshot
 
-```md
-![Add User To Group](images/step7-add-group.png)
-```
+<img width="1912" height="900" alt="image" src="https://github.com/user-attachments/assets/f27eddb6-bd94-4c00-9685-1d47be78e54f" />
 
 ---
 
@@ -168,9 +157,7 @@ Create User
 
 ### Screenshot
 
-```md
-![Review User](images/step8-review.png)
-```
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/f6261f41-6ebf-4a9c-94c3-85aa004678ef" />
 
 ---
 
@@ -186,9 +173,7 @@ Download immediately.
 
 ### Screenshot
 
-```md
-![Credentials Page](images/step9-credentials.png)
-```
+<img width="1912" height="910" alt="image" src="https://github.com/user-attachments/assets/c404328b-7c1e-473c-8ea5-8526aa591afc" />
 
 ---
 
@@ -203,9 +188,7 @@ Download immediately.
 
 ### Screenshot
 
-```md
-![IAM Login](images/step10-user-login.png)
-```
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/b1c85c6d-fcb7-4a4c-935a-cace1a5f2845" />
 
 ---
 
@@ -227,9 +210,7 @@ Assign MFA Device
 
 ### Screenshot
 
-```md
-![Enable MFA](images/step11-mfa.png)
-```
+<img width="1916" height="913" alt="image" src="https://github.com/user-attachments/assets/99c42e00-1cfc-4925-87d0-5a643278af45" />
 
 ---
 
@@ -275,7 +256,7 @@ IAM setup process:
 7. Download Credentials
 8. Enable MFA
 
-👉 IAM is the **first security layer** in AWS.
+IAM is the **first security layer** in AWS.
 
 ---
 
