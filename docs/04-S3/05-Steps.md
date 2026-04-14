@@ -18,7 +18,7 @@
 
 ---
 
-# ✅ Step 2 — Open Amazon S3 Service
+# Step 2 — Open Amazon S3 Service
 
 1. Go to search bar
 2. Type **S3**
@@ -28,7 +28,7 @@
 
 ---
 
-# ✅ Step 3 — Create S3 Bucket
+# Step 3 — Create S3 Bucket
 
 1. Click **Create bucket**
 2. Enter bucket name
@@ -43,29 +43,19 @@ my-first-s3-bucket
 4. Keep default settings
 5. Click **Create bucket**
 
-📸 **Screenshot**
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/27787971-c13b-497e-81ee-1fc422c98264" />
 
-```
-(Add Screenshot Here)
-Create Bucket Page
-```
+ ---
 
----
-
-# ✅ Step 4 — Bucket Created Successfully
+# Step 4 — Bucket Created Successfully
 
 You will see your bucket listed.
 
-📸 **Screenshot**
-
-```
-(Add Screenshot Here)
-Bucket Dashboard
-```
+<img width="1912" height="902" alt="image" src="https://github.com/user-attachments/assets/31451321-3cbc-4b11-ba2b-15c1525ead98" />
 
 ---
 
-# ✅ Step 5 — Upload Object (File)
+# Step 5 — Upload Object (File)
 
 1. Open created bucket
 2. Click **Upload**
@@ -73,16 +63,11 @@ Bucket Dashboard
 4. Select file
 5. Click **Upload**
 
-📸 **Screenshot**
-
-```
-(Add Screenshot Here)
-Uploading File to S3
-```
+<img width="1915" height="910" alt="image" src="https://github.com/user-attachments/assets/1101de24-ec35-4919-86e2-f3a1c275a741" />
 
 ---
 
-# ✅ Step 6 — View Uploaded Object
+# Step 6 — View Uploaded Object
 
 Your file appears inside bucket.
 
@@ -93,17 +78,11 @@ index.html
 image.png
 document.pdf
 ```
-
-📸 **Screenshot**
-
-```
-(Add Screenshot Here)
-Objects Inside Bucket
-```
+<img width="1913" height="907" alt="image" src="https://github.com/user-attachments/assets/5e3dbf85-87c9-4cf5-9b58-6514858db445" />
 
 ---
 
-# ✅ Step 7 — Enable Versioning
+# Step 7 — Enable Versioning
 
 1. Open **Properties**
 2. Scroll to **Bucket Versioning**
@@ -111,18 +90,13 @@ Objects Inside Bucket
 4. Select **Enable**
 5. Save changes
 
-📸 **Screenshot**
-
-```
-(Add Screenshot Here)
-Versioning Enabled
-```
+<img width="1910" height="900" alt="image" src="https://github.com/user-attachments/assets/836e5fbd-72f1-4eb0-9548-631883160bf5" />
 
 ---
 
-# ✅ Step 8 — Make Object Public (Optional)
+# Step 8 — Make Object Public (Optional)
 
-⚠️ For testing / website hosting only.
+For testing / website hosting only.
 
 1. Select object
 2. Click **Actions**
@@ -137,7 +111,7 @@ Public Access Enabled
 
 ---
 
-# ✅ Step 9 — Enable Static Website Hosting
+# Step 9 — Enable Static Website Hosting
 
 1. Go to **Properties**
 2. Scroll to **Static Website Hosting**
@@ -148,58 +122,22 @@ Public Access Enabled
 index.html
 ```
 
-📸 **Screenshot**
-
-```
-(Add Screenshot Here)
-Static Website Hosting Enabled
-```
+<img width="1913" height="897" alt="image" src="https://github.com/user-attachments/assets/809368bb-035b-4ccf-9074-1b321cf7096d" />
 
 ---
 
-# ✅ Step 10 — Access Website URL
+# Step 10 — Access Website URL
 
 AWS generates website endpoint URL.
 
-📸 **Screenshot**
 
-```
-(Add Screenshot Here)
-S3 Website URL Output
-```
 
 ---
 
-# ⭐ Final Workflow
+# Final Workflow
 
 ```
 Login → Open S3 → Create Bucket → Upload Object → Enable Versioning → Host Website
-```
-
----
-
-## 📂 Recommended GitHub Folder Structure
-
-```
-AWS-S3/
-│
-├── README.md
-└── screenshots/
-    ├── login.png
-    ├── create-bucket.png
-    ├── upload-object.png
-    ├── versioning.png
-    └── website-hosting.png
-```
-
----
-
-## 🔥 Pro Tip (For GitHub)
-
-After uploading screenshots, display them like this:
-
-```md
-![Create Bucket](screenshots/create-bucket.png)
 ```
 
 ---
